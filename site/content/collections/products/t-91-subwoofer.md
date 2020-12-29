@@ -1,0 +1,10 @@
+manufacturer: 70535a3a-d216-402b-8c58-eef0130d4462
+product_hero_image: /assets/ti_9_black_3_4_withgrill-1-600x596.png
+available_for_demo: true
+description: '<p>T/9i represents the most of T/i that we can deliver, and if sheer output alone is a primary requirement for your theater or music system then read no further. The combination of a lightweight, composite 10” driver coupled to a matching 10” T/i passive delivers speed, slam and attack when called upon but also is capable of tracing more delicate passages when necessary. Large in sonic scale, the T/9i is ideal for mating up with floor standing speakers and rooms that are on the medium-to-large size. Powerful, concussive, yet beautiful.</p>'
+monthly_featuree: false
+specs: '<h3><br></h3><ul><li>TYPE: &nbsp;Front-firing active driver, down-firing passive<br></li><li>ACTIVE DRIVER SIZE &amp; MATERIAL: 10 in., 250mm long-throw, FibreAlloy™ inverted aluminium dust cap, steel chassis, white cone<br></li><li>PASSIVE RADIATOR SIZE &amp; MATERIAL: 10 in., 250mm long-throw, inverted aluminium dust cap, steel chassis, black cone<br></li><li>LOW FREQUENCY EXTENTION: &nbsp;-6dB at 28 Hz<br></li><li>INPUT CONNECTORS: &nbsp;High Level Neutrik Speakon, Low Level single RCA, LFE RCA<br></li><li>OUTPUT CONNECTORS: &nbsp;N/A<br></li><li>POWER OUTPUT: 300 watts (RMS)<br></li><li>AMPLIFIER TYPE: Class A/B<br></li><li>WIRELESS CAPABILITY: Arrow (Optional), Zero Compression Single Large Scale Integrated Chip<br></li><li>FULLY ELECTRONIC SET SAFE: Yes<br></li><li>D.C. FAULT: &nbsp;Yes<br></li><li>OUTPUT SHORT: Yes<br></li><li>MAINS INPUT VOLTAGE: &nbsp;220-240 volts, 110-120 volts for certain markets<br></li><li>FUSES: 3.15 Amp semi delay 230 volts operation, 6.3 Amp semi delay 115 volts operation<br></li><li>W X H X D: 13 x 15.2 x 16 in. (330 x 387 x 407 mm)<br></li><li>NET WEIGHT: &nbsp;41.3 lbs. (18.7 kg)<br></li><li>FINISH: &nbsp;High Gloss Black, High Gloss White, 5 coats<br></li></ul><p><br></p>'
+has_files: false
+title: 'T/91 subwoofer'
+id: 61fa02ed-b61a-4fba-b749-443a8238d413
+product-categories: subwoofers

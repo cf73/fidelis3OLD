@@ -1,0 +1,10 @@
+manufacturer: b5d88b65-746a-44a9-a0e9-ec1f68555b63
+product_hero_image: /assets/n100-6.jpg
+available_for_demo: true
+description: '<p>If you’ve ever owned a computer audio system, you know that time spent fussing is time lost enjoying music! Consider the alternative – the Aurender N100H, N100C or N100SC. All models elegantly replace your aging computer audio system and elevate your audio system’s sound quality. Music can be stored on the internal hard drive – 2TB (N100H) or 4TB (N100C) with a 120GB solid state (SSD) caching drive performing all file playback for superior fidelity and reliability. For the streaming enthusiast not in need of of a hard drive, we offer the N100SC in which storage is optional. Management of your digital music library or Tidal and Qobuz lossless streaming services is simple and intuitive, thanks to our award-winning Aurender Conductor app. And all major digital file formats are supported at native bit depth and sampling rates. Housed in beautiful machined aluminum casework, any N100 version will compliment your existing system components and deliver a new level of musicality you have to hear to believe.</p>'
+monthly_featuree: false
+specs: '<ul><li>Width​: Half Size (215 mm / 8.46 in)<br></li><li>Height: 45 mm / 1.77 in<br></li><li>Length​: 355 mm / 14.0 in<br></li><li>Weight​: 4.6 kg / 10.14 lb​<br></li><li>SSD for System and Cache: 120GB (N100H &amp; N100C) 240GB (N100SC)<br></li><li>Music Storage: 2TB (N100H) / 4TB (N100C) Storage optional (N100SC)<br></li><li>Power Supply: ​Full-Linear<br></li><li>Display​​: 3.0″ AMOLED<br></li><li>Digital Audio Output​: USB (N100H) or USB and SPDIF on RCA Coax (N100C &amp; N100SC)<br></li><li>Other I/O: Gigabit Ethernet, USB Port x 2​​<br></li><li>Power Consumption​: 16.5 W (Playback), 20W (Peak), 0.7 W (Standby)<br></li><li>Software: Aurender Conductor for iPad, Android Phone or Tablet<br></li><li>Finish: Silver or Black<br></li></ul>'
+has_files: false
+title: 'N100C-4TB Server/Streamer'
+id: 0e31ece9-fa02-4c33-8920-fb40c7c6bc43
+product-categories: server-streaming

@@ -1,0 +1,49 @@
+title: 'Default Globals'
+hide: true
+sections:
+  main:
+    display: Main
+    fields:
+      site_name:
+        type: text
+        display: 'Website Name'
+        instructions: 'The name of your website'
+        localizable: true
+      phone_number:
+        type: text
+        display: 'Phone number'
+      fax_number:
+        type: text
+        display: 'Fax number'
+      email:
+        type: text
+        display: Email
+      store_hours:
+        type: textarea
+        display: 'Store hours'
+      opening_times:
+        buttons:
+          - h2
+          - h3
+          - bold
+          - italic
+          - unorderedlist
+          - orderedlist
+          - removeformat
+          - quote
+          - anchor
+        style: sans
+        spellcheck: true
+        allow_source: true
+        allow_internal_links: true
+        link_noopener: false
+        link_noreferrer: false
+        target_blank: false
+        semantic_elements: false
+        restrict_assets: false
+        type: bard
+        display: 'Opening times'
+      times:
+        type: list
+        display: times
+taxonomies: true
