@@ -1,0 +1,5 @@
+image: img_0140-1603910988.jpeg
+caption: 'The M40.2 Reference Monitor'
+title: 'Customer home'
+id: 2d09f644-ed99-43a1-8b1e-c2a06980aa66
+blueprint: evergreen

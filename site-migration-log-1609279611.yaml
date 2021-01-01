@@ -1,0 +1,12 @@
+-
+  migration: User
+  handle: Marc
+  error: 'A valid email is required to migrate user [Marc].'
+-
+  migration: User
+  handle: admin
+  error: 'A valid email is required to migrate user [admin].'
+-
+  migration: User
+  handle: dwight
+  error: 'A valid email is required to migrate user [dwight].'

@@ -1,0 +1,9 @@
+title: Products
+template: product
+route: 'products/{product-categories}/{slug}'
+taxonomies:
+  - product-categories
+inject:
+  columns:
+    - title
+    - manufacturer.title

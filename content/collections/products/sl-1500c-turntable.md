@@ -1,0 +1,22 @@
+manufacturer: d5fdfc6c-43a6-4753-a9d5-3420b268dc26
+product_hero_image: sl1500c-inspire-02.jpg
+available_for_demo: true
+description: '<p>Complete Turntable with a Built-in Phono Equalizer and Cartridge In order to enjoy playing analogue records more comfortably, the SL-1500C features a built-in phono equalizer and bundled cartridge. There is no need to separately prepare either one, making it easy to link with a wide range of audio equipment. The shield structure of the built-in phono equalizer suppresses the effects of external noise and noise from the power supply. It is also equipped with a switch to turn the LINE output off when it is not being used. The turntable has been designed to thoroughly shut-out adverse effects to the PHONO output. The dedicated power supply for the PHONO output terminal is isolated from the power supply for the LINE output terminal, and has been designed to prioritize sound quality by minimising the wiring of the PHONO signal. The isolated terminals also prevent wiring mistakes. An Ortofon 2M RED cartridge, which is highly acclaimed as an MM cartridge, has been selected for the bundled cartridge. Combining this high-quality cartridge with the performance of the SL-1500C will maximise the sound quality of vinyl records.</p>'
+price: 1199
+show_price: true
+available_to_buy_online: false
+monthly_featuree: false
+specs: '<ul><li>Type: Direct Drive Manual Turntable<br></li><li>Turntable Speeds: 33-1/3, 45 and 78 r/min<br></li><li>Starting Torque: 0.18 N・m / 1.8 kg・cm (1.56 lbs-in)<br></li><li>Build-up Characteristics: 0.7 s. from standstill to 33 1/3 rpm<br></li><li>Wow And Flutter: 0.025 % W.R.M.S.<br></li><li>Turntable Platter: Aluminium diecast Diameter : 332 mm (13-5/64 inch) Weight : Approx. 2.0 kg (4.5 lbs) (Including Turntable Sheet)<br></li><li>Type: Universal Static Balance<br></li><li>Effective Length: 230 mm (9-1/16")<br></li><li>Overhang: 15 mm (19/32")<br></li><li>Tracking Error Angle: Within 2° 32'' (at the outer groove of 30 cm (12") record) Within 0° 32'' (at the inner groove of 30 cm (12") record)<br></li><li>Offset Angle: 22°<br></li><li>Arm-height Adjustment Range: 0 - 6 mm<br></li><li>Stylus Pressure Adjustment Range: 0 - 4 g (Direct Reading)<br></li><li>Head Shell Weight: Approx. 7.6 g<br></li><li>Applicable Cartridge Weight Range: (without auxiliary weight)&nbsp;5.6 - 12.0 g&nbsp;&nbsp;14.3 - 20.7 g (including head shell)&nbsp;<br></li><li>(with auxiliary weight)&nbsp;10.0 - 16.4 g&nbsp;18.7 - 25.1 g (including head shell)<br></li><li>Head Shell Terminal Lug: 1.2 mmφ 4-pin terminal lug<br></li><li>Audio Output: PHONO (Pin Jack) x 1&nbsp;<br></li><li>EARTH TERMINAL x 1&nbsp;<br></li><li>LINE (Pin Jack) x 1<br></li><li>Power Supply: AC 120 V, 60 Hz<br></li><li>Power Consumption: 8 W Approx. 0.2W (Standby)<br></li><li>Dimensions: (W x H x D)453 x 169 x 372 mm 17-27/32 × 6-21/32 × 14-21/32 inch<br></li><li>Weight: Approx. 9.9 kg Approx. 21.2 lbs<br></li><li>Accessories: Turntable, Turntable sheet, Dust cover, EP record adaptor, Balance weight, Auxiliary weight, Head shell, Cartridge(ortofon 2M Red), PHONO cable, PHONO earth lead, AC power supply cord, Owner''s Manual<br></li></ul><p><br></p>'
+has_files: false
+reivews_set:
+  -
+    type: Review
+    excerpt: '<p>The SL-1500C at a much lower price than other top-of-the-range Technics models, thanks to fewer technical simplifications and more production in Malaysia, is one of the best turntables in its price range. When considering both the Ortofon cartridge and the RIAA preamplifier, which is very solid (which is often not the case), it becomes very difficult to achieve this kind of sound within the same budget. In addition to solid workmanship, the SL-1500C also boasts highly competent sound. Rhythmic, lively and open, with a handful of details, perhaps with a slight lack of subtlety and nuance. However, this could hardly be a disadvantage, but rather a tonal difference that falls within the domain of personal taste. Choosing a $ 2,000 turntable offers several very good options, and the SL-1500C is definitely one to consider.</p>'
+    attribution: 'World of Turntables'
+    link: 'https://worldofturntables.com/technics-sl-1500c-review/'
+    date_of_review: '2020-07-07'
+title: 'SL-1500C Turntable'
+id: 4c2c7f98-97aa-42fb-b653-255f26341233
+product-categories: turntables
+system_category: source
+blueprint: product
