@@ -5,7 +5,9 @@
             <ol id="knockout" class="breadcrumb" style="position: absolute; top: 66px;">
                 <li class="breadcrumb-item"><a href="/products"><span>Products</span></a></li>
                 
-                <li class="breadcrumb-item"><span>{{page:title}}</span></li>
+                <li class="breadcrumb-item"><span>{{taxonomy:product-categories slug:is="{last_segment}"}}
+                    {{title}}
+                {{/taxonomy:product-categories}}</span></li>
             </ol>
         </div>
     </div>
@@ -13,18 +15,26 @@
 <div class="container" id="content-area">
     <div class="row vertical-spacer">
         <div class="col-sm-12 center" style="margin-top:30px">
-            <h1 class="vertical-spacer">{{title}}</h1>
-            <p class="vertical-spacer" style="max-width: 700px; margin-left: auto; margin-right: auto;">{{category_description}}</p>
+            <h1 class="vertical-spacer">
+                {{taxonomy:product-categories slug:is="{last_segment}"}}
+                    {{title}}
+                {{/taxonomy:product-categories}}
+            </h1>
+            <p class="vertical-spacer" style="max-width: 700px; margin-left: auto; margin-right: auto;">
+                {{taxonomy:product-categories slug:is="{last_segment}"}}
+                {{category_description}}
+            {{/taxonomy:product-categories}}
+           </p>
         </div>
     </div>
     
     {{collection:manufacturers taxonomy:product-categories="{last_segment}"}}
-            <div class="row">
+            <div class="row" style="border-bottom: solid thin lightgrey; margin-bottom: 15px;">
                 <div class="col">
                     <h2>{{title}}</h2>
                 </div>
             </div>
-            <div class="row">
+            <div class="row" style="margin-bottom: 30px;">
                 {{collection:products :manufacturer:is="id" taxonomy:product-categories="{last_segment}" sort="price:asc"}}
                     {{ if no_results }}
                         <p style="text-align: center; width: 100%;" class="body-sans">No products added for this manufacturer in this product category</p>
