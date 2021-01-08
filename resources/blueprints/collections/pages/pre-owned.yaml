@@ -1,0 +1,133 @@
+title: Pre-owned
+sections:
+  main:
+    display: Main
+    fields:
+      -
+        handle: title
+        field:
+          type: text
+          required: true
+      -
+        handle: date_listed
+        field:
+          mode: single
+          time_enabled: false
+          time_required: false
+          earliest_date: '1900-01-01'
+          full_width: false
+          inline: false
+          columns: 1
+          rows: 1
+          display: 'Date Listed'
+          type: date
+          icon: date
+          listable: hidden
+      -
+        handle: original_accessories
+        field:
+          input_type: text
+          antlers: false
+          display: 'Original accessories'
+          type: text
+          icon: text
+          listable: hidden
+      -
+        handle: new_retail_price
+        field:
+          display: 'New Retail Price'
+          type: integer
+          icon: integer
+          listable: hidden
+      -
+        handle: your_price
+        field:
+          display: 'Your Price'
+          type: integer
+          icon: integer
+          listable: hidden
+      -
+        handle: shipping
+        field:
+          display: Shipping
+          type: integer
+          icon: integer
+          listable: hidden
+      -
+        handle: images
+        field:
+          mode: grid
+          restrict: false
+          allow_uploads: true
+          display: Images
+          type: assets
+          icon: assets
+          listable: hidden
+      -
+        handle: description
+        field:
+          always_show_set_button: false
+          buttons:
+            - h3
+            - bold
+            - italic
+            - unorderedlist
+            - orderedlist
+            - removeformat
+            - anchor
+          save_html: false
+          toolbar_mode: fixed
+          link_noopener: false
+          link_noreferrer: false
+          target_blank: false
+          reading_time: false
+          fullscreen: true
+          allow_source: true
+          display: Description
+          type: bard
+          icon: bard
+          listable: hidden
+      -
+        handle: pairs_well_with
+        field:
+          max_items: 4
+          mode: default
+          collections:
+            - products
+          display: 'Pairs Well With'
+          type: entries
+          icon: entries
+          instructions: 'Choose one product from each other category that this product pairs well with'
+          listable: hidden
+      -
+        handle: also_consider
+        field:
+          max_items: 4
+          mode: default
+          collections:
+            - products
+          display: 'Also Consider'
+          type: entries
+          icon: entries
+          instructions: 'Choose up to four other products in the same category and general price range'
+          listable: hidden
+  sidebar:
+    display: Sidebar
+    fields:
+      -
+        handle: slug
+        field:
+          type: slug
+          required: true
+          localizable: true
+          validate:
+            - required
+      -
+        handle: parent
+        field:
+          type: entries
+          collections:
+            - pages
+          max_items: 1
+          listable: false
+          localizable: true
